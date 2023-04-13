@@ -6,9 +6,11 @@
 /*   By: flaviobiondo <flaviobiondo@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/04 13:17:27 by fbiondo           #+#    #+#             */
-/*   Updated: 2023/04/13 18:08:34 by flaviobiond      ###   ########.fr       */
+/*   Updated: 2023/04/13 18:58:47 by flaviobiond      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libftprintf.h"
 
 int	ft_p_puutnbr(char c, unsigned long long nb)
 {
